@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
