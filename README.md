@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
 ## String
