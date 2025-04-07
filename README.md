@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
 | [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0069-sqrtx) |
+| [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +79,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
