@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
 | [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3636-check-balanced-string](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/3636-check-balanced-string) |
 ## Divide and Conquer
 |  |
 | ------- |
