@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
+| [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
 ## Divide and Conquer
 |  |
 | ------- |
