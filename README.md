@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
@@ -91,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
