@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
