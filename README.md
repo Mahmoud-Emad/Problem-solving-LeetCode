@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3636-check-balanced-string](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/3636-check-balanced-string) |
 ## Divide and Conquer
