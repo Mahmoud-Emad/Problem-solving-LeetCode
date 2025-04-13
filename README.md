@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
