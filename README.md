@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
+| [2050-count-good-numbers](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
