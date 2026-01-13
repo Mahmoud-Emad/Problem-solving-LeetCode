@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1656-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -150,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
