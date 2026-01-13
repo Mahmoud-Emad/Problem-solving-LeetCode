@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1656-count-good-triplets) |
+| [1929-concatenation-of-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
 |  |
@@ -139,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1656-count-good-triplets) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
