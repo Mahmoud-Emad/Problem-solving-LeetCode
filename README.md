@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
 | [1470-shuffle-the-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1656-count-good-triplets) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
