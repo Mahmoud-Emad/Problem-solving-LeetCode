@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0729-my-calendar-i](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0729-my-calendar-i) |
 | [1470-shuffle-the-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1656-count-good-triplets) |
