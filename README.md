@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2050-count-good-numbers) |
 ## Binary Search
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
