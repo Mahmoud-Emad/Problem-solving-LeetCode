@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1656-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2881-split-strings-by-separator](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -167,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mahmoud-Emad/Problem-solving-LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
